@@ -24,40 +24,40 @@ Chemistry is everywhere in the world around us! Chemistry sometimes is called th
 2. Provides historical information about modern periodic table.  
 3. Provides information about how the modern periodic table is organized.
 4. There is an option to search an element of modern periodic table. 
-5. A search can be done by three ways.
-      I.	By using element’s name.
-      II.	By using element’s symbolic name.
-      III.	By using element’s atomic number.
+5. A search can be done by three ways.<br>
+      &nbsp &nbsp &nbsp  I.	By using element’s name.<br>
+      &nbsp &nbsp &nbsp II.	By using element’s symbolic name.<br>
+      &nbsp &nbsp &nbspIII.	By using element’s atomic number.<br>
 So, searching is user friendly.
-6. For every successful search the program provides necessary information like name, origin of name, atomic weight, melting point, boiling point, electronic configuration, period number, and group name about that element.
+6. For every successful search the program provides necessary information like name, origin of name, atomic weight, melting point, boiling point, electronic configuration, period number, and group name about that element.<br>
 7. All the information are added from reliable sources.  
     
-The program can be controlled by a user driven menu; that has these following features: 
-      1. View of modern periodic table.
-      2. History of periodic table.   
-      3. Search element of periodic table.  
-      4. Information about periodic table.
-      5. Exit.   
-    
-1. If 1st option is chosen:
-          i. Displays the periodic table.
-         ii. Shows an option to go back to the menu.
-2. If 2nd option is chosen:
-         User finds some notes about history of the periodic table and an option to go back to menu. 
-3. If 3rd option is chosen:
-          i. Displays 3 options to search the element for details.
-1. Enter name according to order   takes input   Element’s details
-2. Enter symbolic name   takes input      Element’s details                       
-3. Enter atomic number   takes input   Element’s details
-          ii. Shows option to search again.
-         iii. Shows option to go back to menu.
-4. If 4th option is chosen:
-          - Displays some tips and information about periodic table and option to go back to menu.
-5. If 5th option is chosen:
-          - Ends the program and shows a “thank you” message on console.
+The program can be controlled by a user driven menu; that has these following features:<br> 
+      &nbsp &nbsp &nbsp1. View of modern periodic table.<br>
+      &nbsp &nbsp &nbsp2. History of periodic table.<br>   
+      &nbsp &nbsp &nbsp3. Search element of periodic table.<br> 
+      &nbsp &nbsp &nbsp4. Information about periodic table.<br>
+      &nbsp &nbsp &nbsp5. Exit.<br>   
+<br>
+1. If 1st option is chosen:<br>
+          &nbsp &nbsp &nbspi. Displays the periodic table.<br>
+         &nbsp &nbsp &nbspii. Shows an option to go back to the menu.<br>
+2. If 2nd option is chosen:<br>
+         &nbsp &nbsp &nbspUser finds some notes about history of the periodic table and an option to go back to menu.<br> 
+3. If 3rd option is chosen:<br>
+          &nbsp &nbsp &nbspi. Displays 3 options to search the element for details.<br>
+1. Enter name according to order --> takes input --> Element’s details<br>
+2. Enter symbolic name --> takes input --> Element’s details<br>                       
+3. Enter atomic number --> takes input --> Element’s details<br>
+          &nbsp &nbsp &nbspii. Shows option to search again.<br>
+         &nbsp &nbsp &nbspiii. Shows option to go back to menu.<br>
+4. If 4th option is chosen:<br>
+          &nbsp &nbsp &nbsp- Displays some tips and information about periodic table and option to go back to menu.<br>
+5. If 5th option is chosen:<br>
+          &nbsp &nbsp &nbsp- Ends the program and shows a “thank you” message on console.<br>
 
 # Functions 
-I. Pre-Defined Functions:
+<b>I. Pre-Defined Functions:<!b><br>
       1. printf ( ): displays information on console<br>
       2. scanf ( ): reads the information entered by user from console<br>
       3. fopen ( ): opens file<br>
