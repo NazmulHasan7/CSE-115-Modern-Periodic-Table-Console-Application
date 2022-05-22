@@ -4,7 +4,7 @@ Modern Periodic Table with C programming is a console application written in C p
 <p align="center">
    NORTH SOUTH UNIVERSITY
    Department of Electrical and Computer Engineering
-  <img width="200" src="[http://material-bread.org/logo-shadow.svg" alt="Material Bread logo](https://user-images.githubusercontent.com/63312173/169691183-81fb4759-3d75-473e-aa99-1724a424dcf2.png)">
+  <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://user-images.githubusercontent.com/63312173/169691183-81fb4759-3d75-473e-aa99-1724a424dcf2.png]" alt="North South University Logo">
   CSE 115 L
 Programming Language I Lab
 Project Title: Periodic Table
