@@ -1,8 +1,12 @@
 # CSE-115-Modern-Periodic-Table-Console-Application
 Modern Periodic Table with C programming is a console application written in C programming language for CSE115 of North South University. 
 
-                                                     NORTH SOUTH UNIVERSITY
-                                      Department of Electrical and Computer Engineering
+                                                NORTH SOUTH UNIVERSITY
+                                   Department of Electrical and Computer Engineering
+                                   
+<p align="center">
+  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+</p>
 
 ![image](https://user-images.githubusercontent.com/63312173/169691183-81fb4759-3d75-473e-aa99-1724a424dcf2.png)
  
