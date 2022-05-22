@@ -74,3 +74,9 @@ The program can be controlled by a user driven menu; that has these following fe
       &nbsp; &nbsp; &nbsp;4.	searchElements ( ): Is used takes input to search elements of the table and display the result<br>
       &nbsp; &nbsp; &nbsp;5.	info ( ): Is used to display specific information about periodic table<br>
       &nbsp; &nbsp; &nbsp;6.	TAG ( ): Is used to display “Modern Periodic Table”<br>
+    
+# Output View
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63312173/169709652-000d68c9-14ff-43f6-96a6-165823e33c35.png">
+</p>
+
