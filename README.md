@@ -56,7 +56,7 @@ The program can be controlled by a user driven menu; that has these following fe
           &nbsp; &nbsp; &nbsp;- Ends the program and shows a “thank you” message on console.<br>
 
 # Functions 
-<b>Pre-Defined Functions:</b><br>
+<b>Pre-defined Functions:</b><br>
       &nbsp; &nbsp; &nbsp;1. printf ( ): displays information on console<br>
       &nbsp; &nbsp; &nbsp;2. scanf ( ): reads the information entered by user from console<br>
       &nbsp; &nbsp; &nbsp;3. fopen ( ): opens file<br>
@@ -67,7 +67,7 @@ The program can be controlled by a user driven menu; that has these following fe
       &nbsp; &nbsp; &nbsp;8. fflush ( ):  typically used for output stream only<br>
       &nbsp; &nbsp; &nbsp;9. exit ( ):   Terminates calling process<br>
                
-<b>UserDefined Functions:</b><br>
+<b>User-defined Functions:</b><br>
       &nbsp; &nbsp; &nbsp;1.	menu ( ): Is used to displays Menu<br>
       &nbsp; &nbsp; &nbsp;2.	displayTable ( ): Is used to display the periodic table<br>
       &nbsp; &nbsp; &nbsp;3.	displayInfo ( ): Is used to display the history of periodic table).<br>
