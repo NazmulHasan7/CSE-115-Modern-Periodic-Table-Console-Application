@@ -20,27 +20,25 @@ Modern Periodic Table with C programming is a console application written in C p
 Chemistry is everywhere in the world around us! Chemistry sometimes is called the "central science" and to know chemistry, all we need to learn about the chemical elements which occurs reactions behind. Periodic Table is one of the most important parts of Chemistry.  In this C language program where the user, can see a look alike model of IUPAC Periodic Table of Elements, also can search an element’s details (period, group, symbol, electron configuration, atomic weight , boiling point and melting point.) through its name, symbol, or atomic number by  giving specific inputs . It also displays history of periodic table, Information, and tips about the periodic table. All these will help the user to learn and know the periodic table of IUPAC .It will be interesting to learn periodic table through C programming.
 
 # Features
-Features of the console application:
 1. Standard view of the IUPAC modern periodic table.
 2. Provides historical information about modern periodic table.  
 3. Provides information about how the modern periodic table is organized.
 4. There is an option to search an element of modern periodic table. 
 5. A search can be done by three ways.<br>
-      &nbsp; &nbsp; &nbsp;  I.	By using element’s name.<br>
-      &nbsp; &nbsp; &nbsp; II.	By using element’s symbolic name.<br>
-      &nbsp; &nbsp; &nbsp;III.	By using element’s atomic number.<br>
+      &nbsp; &nbsp; &nbsp;  A.	By using element’s name.<br>
+      &nbsp; &nbsp; &nbsp;  B.	By using element’s symbolic name.<br>
+      &nbsp; &nbsp; &nbsp;  C.	By using element’s atomic number.<br>
 So, searching is user friendly.
 6. For every successful search the program provides necessary information like name, origin of name, atomic weight, melting point, boiling point, electronic configuration, period number, and group name about that element.<br>
 7. All the information are added from reliable sources.  
     
 The program can be controlled by a user driven menu; that has these following features:<br> 
-      &nbsp; &nbsp; &nbsp;1. View of modern periodic table.<br>
-      &nbsp; &nbsp; &nbsp;2. History of periodic table.<br>   
-      &nbsp; &nbsp; &nbsp;3. Search element of periodic table.<br> 
-      &nbsp; &nbsp; &nbsp;4. Information about periodic table.<br>
-      &nbsp; &nbsp; &nbsp;5. Exit.<br>   
-<br>
-1. If 1st option is chosen:<br>
+      &nbsp; &nbsp; &nbsp;A. View of modern periodic table.<br>
+      &nbsp; &nbsp; &nbsp;B. History of periodic table.   
+      &nbsp; &nbsp; &nbsp;C. Search element of periodic table.<br> 
+      &nbsp; &nbsp; &nbsp;D. Information about periodic table.<br>
+      &nbsp; &nbsp; &nbsp;E. Exit.
+1. If option A is chosen:<br>
           &nbsp; &nbsp; &nbsp;i. Displays the periodic table.<br>
          &nbsp; &nbsp; &nbsp;ii. Shows an option to go back to the menu.<br>
 2. If 2nd option is chosen:<br>
