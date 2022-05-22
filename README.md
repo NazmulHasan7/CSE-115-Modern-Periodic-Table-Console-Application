@@ -33,23 +33,23 @@ So, searching is user friendly.
 7. All the information are added from reliable sources.  
     
 The program can be controlled by a user driven menu; that has these following features:<br> 
-      &nbsp; &nbsp; &nbsp;A. View of modern periodic table.<br>
-      &nbsp; &nbsp; &nbsp;B. History of periodic table.   
-      &nbsp; &nbsp; &nbsp;C. Search element of periodic table.<br> 
-      &nbsp; &nbsp; &nbsp;D. Information about periodic table.<br>
-      &nbsp; &nbsp; &nbsp;E. Exit.
+      &nbsp; &nbsp; &nbsp;1. View of modern periodic table.<br>
+      &nbsp; &nbsp; &nbsp;2. History of periodic table.   
+      &nbsp; &nbsp; &nbsp;3. Search element of periodic table.<br> 
+      &nbsp; &nbsp; &nbsp;4. Information about periodic table.<br>
+      &nbsp; &nbsp; &nbsp;5. Exit.
 1. If option A is chosen:<br>
-          &nbsp; &nbsp; &nbsp;i. Displays the periodic table.<br>
-         &nbsp; &nbsp; &nbsp;ii. Shows an option to go back to the menu.<br>
+          &nbsp; &nbsp; &nbsp;1.1. Displays the periodic table.<br>
+          &nbsp; &nbsp; &nbsp;1.2. Shows an option to go back to the menu.<br>
 2. If 2nd option is chosen:<br>
          &nbsp; &nbsp; &nbsp;User finds some notes about history of the periodic table and an option to go back to menu.<br> 
 3. If 3rd option is chosen:<br>
-          &nbsp; &nbsp; &nbsp; i. Displays 3 options to search the element for details.<br>
+          &nbsp; &nbsp; &nbsp; 3.1. Displays 3 options to search the element for details.<br>
 1. Enter name according to order --> takes input --> Element’s details<br>
 2. Enter symbolic name --> takes input --> Element’s details<br>                       
 3. Enter atomic number --> takes input --> Element’s details<br>
-          &nbsp; &nbsp; &nbsp;ii. Shows option to search again.<br>
-         &nbsp; &nbsp; &nbsp;iii. Shows option to go back to menu.<br>
+          &nbsp; &nbsp; &nbsp;3.2. Shows option to search again.<br>
+          &nbsp; &nbsp; &nbsp;3.3. Shows option to go back to menu.<br>
 4. If 4th option is chosen:<br>
           &nbsp; &nbsp; &nbsp;- Displays some tips and information about periodic table and option to go back to menu.<br>
 5. If 5th option is chosen:<br>
