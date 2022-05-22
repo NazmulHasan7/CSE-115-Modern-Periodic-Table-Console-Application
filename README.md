@@ -20,44 +20,45 @@ Modern Periodic Table with C programming is a console application written in C p
 Chemistry is everywhere in the world around us! Chemistry sometimes is called the "central science" and to know chemistry, all we need to learn about the chemical elements which occurs reactions behind. Periodic Table is one of the most important parts of Chemistry.  In this C language program where the user, can see a look alike model of IUPAC Periodic Table of Elements, also can search an element’s details (period, group, symbol, electron configuration, atomic weight , boiling point and melting point.) through its name, symbol, or atomic number by  giving specific inputs . It also displays history of periodic table, Information, and tips about the periodic table. All these will help the user to learn and know the periodic table of IUPAC .It will be interesting to learn periodic table through C programming.
 
 # Features
+Features of the console application:
 1. Standard view of the IUPAC modern periodic table.
 2. Provides historical information about modern periodic table.  
 3. Provides information about how the modern periodic table is organized.
 4. There is an option to search an element of modern periodic table. 
 5. A search can be done by three ways.<br>
-      &nbsp &nbsp &nbsp  I.	By using element’s name.<br>
-      &nbsp &nbsp &nbsp II.	By using element’s symbolic name.<br>
-      &nbsp &nbsp &nbspIII.	By using element’s atomic number.<br>
+      &nbsp; &nbsp; &nbsp;  I.	By using element’s name.<br>
+      &nbsp; &nbsp; &nbsp; II.	By using element’s symbolic name.<br>
+      &nbsp; &nbsp; &nbsp;III.	By using element’s atomic number.<br>
 So, searching is user friendly.
 6. For every successful search the program provides necessary information like name, origin of name, atomic weight, melting point, boiling point, electronic configuration, period number, and group name about that element.<br>
 7. All the information are added from reliable sources.  
     
 The program can be controlled by a user driven menu; that has these following features:<br> 
-      &nbsp &nbsp &nbsp1. View of modern periodic table.<br>
-      &nbsp &nbsp &nbsp2. History of periodic table.<br>   
-      &nbsp &nbsp &nbsp3. Search element of periodic table.<br> 
-      &nbsp &nbsp &nbsp4. Information about periodic table.<br>
-      &nbsp &nbsp &nbsp5. Exit.<br>   
+      &nbsp; &nbsp; &nbsp;1. View of modern periodic table.<br>
+      &nbsp; &nbsp; &nbsp;2. History of periodic table.<br>   
+      &nbsp; &nbsp; &nbsp;3. Search element of periodic table.<br> 
+      &nbsp; &nbsp; &nbsp;4. Information about periodic table.<br>
+      &nbsp; &nbsp; &nbsp;5. Exit.<br>   
 <br>
 1. If 1st option is chosen:<br>
-          &nbsp &nbsp &nbspi. Displays the periodic table.<br>
-         &nbsp &nbsp &nbspii. Shows an option to go back to the menu.<br>
+          &nbsp; &nbsp; &nbsp;i. Displays the periodic table.<br>
+         &nbsp; &nbsp; &nbsp;ii. Shows an option to go back to the menu.<br>
 2. If 2nd option is chosen:<br>
-         &nbsp &nbsp &nbspUser finds some notes about history of the periodic table and an option to go back to menu.<br> 
+         &nbsp; &nbsp; &nbsp;User finds some notes about history of the periodic table and an option to go back to menu.<br> 
 3. If 3rd option is chosen:<br>
-          &nbsp &nbsp &nbspi. Displays 3 options to search the element for details.<br>
+          &nbsp; &nbsp; &nbsp; i. Displays 3 options to search the element for details.<br>
 1. Enter name according to order --> takes input --> Element’s details<br>
 2. Enter symbolic name --> takes input --> Element’s details<br>                       
 3. Enter atomic number --> takes input --> Element’s details<br>
-          &nbsp &nbsp &nbspii. Shows option to search again.<br>
-         &nbsp &nbsp &nbspiii. Shows option to go back to menu.<br>
+          &nbsp; &nbsp; &nbsp;ii. Shows option to search again.<br>
+         &nbsp; &nbsp; &nbsp;iii. Shows option to go back to menu.<br>
 4. If 4th option is chosen:<br>
-          &nbsp &nbsp &nbsp- Displays some tips and information about periodic table and option to go back to menu.<br>
+          &nbsp; &nbsp; &nbsp;- Displays some tips and information about periodic table and option to go back to menu.<br>
 5. If 5th option is chosen:<br>
-          &nbsp &nbsp &nbsp- Ends the program and shows a “thank you” message on console.<br>
+          &nbsp; &nbsp; &nbsp;- Ends the program and shows a “thank you” message on console.<br>
 
 # Functions 
-<b>I. Pre-Defined Functions:<!b><br>
+<b>I. Pre-Defined Functions:</b><br>
       1. printf ( ): displays information on console<br>
       2. scanf ( ): reads the information entered by user from console<br>
       3. fopen ( ): opens file<br>
@@ -68,7 +69,7 @@ The program can be controlled by a user driven menu; that has these following fe
       8. fflush ( ):  typically used for output stream only<br>
       9. exit ( ):   Terminates calling process<br>
                
-II. UserDefined Functions:
+<b>II. UserDefined Functions:</b><br>
       1.	menu ( ): Is used to displays Menu<br>
       2.	displayTable ( ): Is used to display the periodic table<br>
       3.	displayInfo ( ): Is used to display the history of periodic table).<br>
