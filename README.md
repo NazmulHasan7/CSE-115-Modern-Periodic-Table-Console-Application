@@ -2,23 +2,18 @@
 Modern Periodic Table with C programming is a console application written in C programming language for CSE115 of North South University. 
 
 <p align="center">
-   # NORTH SOUTH UNIVERSITY<br>
-   # Department of Electrical and Computer Engineering
-   
+   NORTH SOUTH UNIVERSITY<br>
+   Department of Electrical and Computer Engineering
    ![image](https://user-images.githubusercontent.com/63312173/169691415-09dddee0-04c9-4411-911f-f0e02282f318.png)
-   
-  CSE 115 L
-Programming Language I Lab
-Project Title: Periodic Table
-
-Submitted to: Ashik Mostafa Alvi
-Date of Submission: 26th April 2019
 </p>
- 
+<p align="center">
+   CSE 115 L
+   Programming Language I Lab
+   Project Title: Modern Periodic Table
 
-
-Name:  Md. Saeem Hossain Shanto          ID: 1912218642
-Name:  Nazmul Hasan                                   ID: 1911742042
+   Submitted to: Ashik Mostafa Alvi
+   Date of Submission: 26th April 2019
+ <p>
 
 Project Overview:
 Chemistry is everywhere in the world around us! Chemistry sometimes is called the "central science" and to know chemistry, all we need to learn about the chemical elements which occurs reactions behind. Periodic Table is one of the most important parts of Chemistry.  In this C language program where the user, can see a look alike model of IUPAC Periodic Table of Elements, also can search an element’s details (period, group, symbol, electron configuration, atomic weight , boiling point and melting point.) through its name, symbol, or atomic number by  giving specific inputs . It also displays history of periodic table, Information, and tips about the periodic table. All these will help the user to learn and know the periodic table of IUPAC .It will be interesting to learn periodic table through C programming.
