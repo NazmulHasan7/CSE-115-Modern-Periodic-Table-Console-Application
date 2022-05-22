@@ -2,8 +2,7 @@
 Modern Periodic Table with C programming is a console application written in C programming language for CSE115 of North South University. 
 
 <p align="center">
-   NORTH SOUTH UNIVERSITY
-   
+   NORTH SOUTH UNIVERSITY<br>
    Department of Electrical and Computer Engineering
    
    ![image](https://user-images.githubusercontent.com/63312173/169691415-09dddee0-04c9-4411-911f-f0e02282f318.png)
