@@ -56,21 +56,21 @@ The program can be controlled by a user driven menu; that has these following fe
           &nbsp; &nbsp; &nbsp;- Ends the program and shows a “thank you” message on console.<br>
 
 # Functions 
-<b>I. Pre-Defined Functions:</b><br>
-      1. printf ( ): displays information on console<br>
-      2. scanf ( ): reads the information entered by user from console<br>
-      3. fopen ( ): opens file<br>
-      4. fgetc ( ): reads the information (character) from a file<br>
-      5. strycpy ( ): copies one string to another string<br>
-      6. system ( ): Execute system command<br>
-      7. fclose ( ): closes file<br>
-      8. fflush ( ):  typically used for output stream only<br>
-      9. exit ( ):   Terminates calling process<br>
+<b>Pre-Defined Functions:</b><br>
+      &nbsp; &nbsp; &nbsp;1. printf ( ): displays information on console<br>
+      &nbsp; &nbsp; &nbsp;2. scanf ( ): reads the information entered by user from console<br>
+      &nbsp; &nbsp; &nbsp;3. fopen ( ): opens file<br>
+      &nbsp; &nbsp; &nbsp;4. fgetc ( ): reads the information (character) from a file<br>
+      &nbsp; &nbsp; &nbsp;5. strycpy ( ): copies one string to another string<br>
+      &nbsp; &nbsp; &nbsp;6. system ( ): Execute system command<br>
+      &nbsp; &nbsp; &nbsp;7. fclose ( ): closes file<br>
+      &nbsp; &nbsp; &nbsp;8. fflush ( ):  typically used for output stream only<br>
+      &nbsp; &nbsp; &nbsp;9. exit ( ):   Terminates calling process<br>
                
-<b>II. UserDefined Functions:</b><br>
-      1.	menu ( ): Is used to displays Menu<br>
-      2.	displayTable ( ): Is used to display the periodic table<br>
-      3.	displayInfo ( ): Is used to display the history of periodic table).<br>
-      4.	searchElements ( ): Is used takes input to search elements of the table and display the result<br>
-      5.	info ( ): Is used to display specific information about periodic table<br>
-      6.	TAG ( ): Is used to display “Modern Periodic Table”<br>
+<b>UserDefined Functions:</b><br>
+      &nbsp; &nbsp; &nbsp;1.	menu ( ): Is used to displays Menu<br>
+      &nbsp; &nbsp; &nbsp;2.	displayTable ( ): Is used to display the periodic table<br>
+      &nbsp; &nbsp; &nbsp;3.	displayInfo ( ): Is used to display the history of periodic table).<br>
+      &nbsp; &nbsp; &nbsp;4.	searchElements ( ): Is used takes input to search elements of the table and display the result<br>
+      &nbsp; &nbsp; &nbsp;5.	info ( ): Is used to display specific information about periodic table<br>
+      &nbsp; &nbsp; &nbsp;6.	TAG ( ): Is used to display “Modern Periodic Table”<br>
