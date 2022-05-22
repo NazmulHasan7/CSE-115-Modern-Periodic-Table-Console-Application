@@ -6,8 +6,7 @@ Modern Periodic Table with C programming is a console application written in C p
    Department of Electrical and Computer Engineering
 <p>
 <p align="center">
-   ![image](https://user-images.githubusercontent.com/63312173/169691415-09dddee0-04c9-4411-911f-f0e02282f318.png)
-   
+  <img src="https://user-images.githubusercontent.com/63312173/169691760-a83acee4-4afd-424a-a34a-986a9d5e06c6.png">
 </p>
 <p align="center">
    CSE 115 L<br>
@@ -17,9 +16,10 @@ Modern Periodic Table with C programming is a console application written in C p
    Date of Submission: 26th April 2019<br>
  <p>
 
-# Project Overview:
+# Overview
 Chemistry is everywhere in the world around us! Chemistry sometimes is called the "central science" and to know chemistry, all we need to learn about the chemical elements which occurs reactions behind. Periodic Table is one of the most important parts of Chemistry.  In this C language program where the user, can see a look alike model of IUPAC Periodic Table of Elements, also can search an element’s details (period, group, symbol, electron configuration, atomic weight , boiling point and melting point.) through its name, symbol, or atomic number by  giving specific inputs . It also displays history of periodic table, Information, and tips about the periodic table. All these will help the user to learn and know the periodic table of IUPAC .It will be interesting to learn periodic table through C programming.
-Features:
+
+# Features
 1. Standard view of the IUPAC modern periodic table.
 2. Provides historical information about modern periodic table.  
 3. Provides information about how the modern periodic table is organized.
@@ -56,7 +56,7 @@ The program can be controlled by a user driven menu; that has these following fe
 5. If 5th option is chosen:
           - Ends the program and shows a “thank you” message on console.
 
-# Functions: 
+# Functions 
 I. Pre-Defined Functions:
       1. printf ( ): displays information on console<br>
       2. scanf ( ): reads the information entered by user from console<br>
