@@ -1,25 +1,25 @@
-# CSE-115-Modern-Periodic-Table-Console-Application
+# <i>CSE-115-Modern-Periodic-Table-Console-Application</i>
 <i>Modern Periodic Table with C programming is a console application written in C programming language for CSE115 of North South University.</i> 
 
 <p align="center">
-   NORTH SOUTH UNIVERSITY<br>
-   Department of Electrical and Computer Engineering
+   <i>NORTH SOUTH UNIVERSITY<br>
+   Department of Electrical and Computer Engineering</i>
 <p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63312173/169691760-a83acee4-4afd-424a-a34a-986a9d5e06c6.png">
 </p>
 <p align="center">
-   CSE 115 L<br>
+   <i>CSE 115 L<br>
    Programming Language I Lab<br>
    Project Title: Modern Periodic Table<br>
    Submitted to: Ashik Mostafa Alvi<br>
-   Date of Submission: 26th April 2019<br>
+   Date of Submission: 26th April 2019</i><br>
  <p>
 
 # <i>Overview</i>
 <i>Chemistry is everywhere in the world around us! Chemistry sometimes is called the "central science" and to know chemistry, all we need to learn about the chemical elements which occurs reactions behind. Periodic Table is one of the most important parts of Chemistry.  In this C language program where the user, can see a look alike model of IUPAC Periodic Table of Elements, also can search an element’s details (period, group, symbol, electron configuration, atomic weight , boiling point and melting point.) through its name, symbol, or atomic number by  giving specific inputs . It also displays history of periodic table, Information, and tips about the periodic table. All these will help the user to learn and know the periodic table of IUPAC .It will be interesting to learn periodic table through C programming.</i>
 
-# Features
+# <i>Features</i>
 <i>
 1. Standard view of the IUPAC modern periodic table.
 2. Provides historical information about modern periodic table.  
@@ -56,7 +56,7 @@ The program can be controlled by a user driven menu; that has these following fe
 5. If 5th option is chosen:<br>
           &nbsp; &nbsp; &nbsp;- Ends the program and shows a “thank you” message on console.<br></i>
 
-# Functions 
+# <i>Functions</i>
 <i><b>Pre-defined Functions:</b><br>
       &nbsp; &nbsp; &nbsp;1. printf ( ): displays information on console<br>
       &nbsp; &nbsp; &nbsp;2. scanf ( ): reads the information entered by user from console<br>
@@ -76,7 +76,7 @@ The program can be controlled by a user driven menu; that has these following fe
       &nbsp; &nbsp; &nbsp;5.	info ( ): Is used to display specific information about periodic table<br>
       &nbsp; &nbsp; &nbsp;6.	TAG ( ): Is used to display “Modern Periodic Table”<br></i>
     
-# Output View
+# <i>Output View</i>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63312173/169709652-000d68c9-14ff-43f6-96a6-165823e33c35.png">
 </p>
